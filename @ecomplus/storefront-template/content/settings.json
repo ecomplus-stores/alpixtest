@@ -1,0 +1,18 @@
+{
+  "domain": "alpix-fashion.netlify.app",
+  "primary_color": "#000000",
+  "theme": {
+    "custom": "_",
+    "bootswatch": "_"
+  },
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/plus.png",
+  "name": "Tema Fashion.Plus",
+  "short_name": "Tema Fashion.Plus",
+  "favicon": "/img/uploads/alpix-square.png",
+  "secondary_color": "#cccccc",
+  "icon": "/img/uploads/alpix-square.png",
+  "store_id": 1208,
+  "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.",
+  "large_icon": "/img/uploads/alpix-square.png"
+}
