@@ -1,0 +1,11 @@
+{
+  "container": "Completa",
+  "products_per_row_d": "4",
+  "show_brand": true,
+  "products_per_row_m": "2",
+  "show_variants": true,
+  "products_per_row_t": "3",
+  "show_button": true,
+  "show_installment": true,
+  "image_proportion": "Vertical"
+}
