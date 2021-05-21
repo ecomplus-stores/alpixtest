@@ -1,0 +1,9 @@
+{
+  "container": "Caixa",
+  "show_resume": true,
+  "show_pages": true,
+  "show_categories": true,
+  "show_contacts": true,
+  "show_social": true,
+  "show_payments": true
+}
