@@ -1,23 +1,23 @@
 {
-  "store_id": 1208,
-  "name": "alpixtest",
   "domain": "alpixtest.netlify.app",
-  "short_name": "alpixtest",
-  "description": "alpixtest",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#000000",
+  "logo": "/img/uploads/logo-alpix-1-.svg",
+  "name": "Agência Alpix",
+  "short_name": "Alpix",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
+  "country_code": "BR",
+  "secondary_color": "#000000",
+  "icon": "/img/icon.png",
+  "store_id": 1208,
+  "description": "Agência especializada em criação de lojas virtuais nas plataformas e-com.plus, Loja Integrada e Dooca.",
+  "large_icon": "/img/large-icon.png"
 }
